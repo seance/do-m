@@ -1,0 +1,17 @@
+{
+  "name": "do-m",
+  "version": "1.0.0",
+  "description": "Monadic do-comprehension like syntax for JavaScript using generators",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "do",
+    "doM",
+    "do-comprehension",
+    "monadic"
+  ],
+  "author": "github/seance",
+  "license": "ISC"
+}
